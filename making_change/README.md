@@ -13,6 +13,7 @@ For example, `making_change(10)` should return 4, since there are 4 ways to make
  3. We can use 2 nickels
  4. We can use a single dime
 
+
 ## Testing 
 
 For this problem, there's a test that tests your implementation with small inputs (amounts of change up to 300 cents). There's also a separate test that tests your implementation with large inputs (amounts of change >= 350 cents). 
